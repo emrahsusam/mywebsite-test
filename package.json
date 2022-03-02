@@ -1,0 +1,43 @@
+{
+  "name": "e_ticaret",
+  "version": "1.0.0",
+  "description": "e-commercial site badescarf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "e_commercial site"
+  },
+  "keywords": [
+    "e-commercial",
+    "badescarf",
+    "e-ticaret",
+    "esarp",
+    "sal",
+    "esarpvesal",
+    "hijab",
+    "scarf",
+    "women",
+    "women",
+    "fashion",
+    "hijab",
+    "fashion",
+    "tesettur",
+    "tesettur",
+    "moda",
+    "pamuk",
+    "esarp",
+    "ipek",
+    "esarp"
+  ],
+  "author": "emrahsusam",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3"
+  },
+  "devDependencies": {}
+}
